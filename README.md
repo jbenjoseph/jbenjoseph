@@ -1,4 +1,4 @@
-I primarily work on pandemic response and artificial intelligence projects.
+I primarily work on drug discovery and pandemic response projects that use artificial intelligence.
 
 <!---
 jbenjoseph/jbenjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
