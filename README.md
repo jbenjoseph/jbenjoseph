@@ -1,4 +1,6 @@
-Artificial intelligence researcher and developer. I primarily work on drug discovery and pandemic response projects that use artificial intelligence.
+Artificial intelligence researcher and a strategic venture capitalist. See my LinkedIn for more info. 
+
+On GitHub, I primarily work on drug discovery and pandemic response projects that use artificial intelligence.
 
 
 <!---
