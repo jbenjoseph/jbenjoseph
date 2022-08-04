@@ -1,4 +1,4 @@
-JJ is CEO of TensorSpace. See [my LinkedIn for my career history](https://www.linkedin.com/in/jj-ben-joseph-53743b113/). TensorSpace is an AI horizontal. What we are working on is mostly secret right now, but it involves a generalist apporach to AI.
+JJ is CEO of TensorSpace. See [my LinkedIn for my career history](https://www.linkedin.com/in/jj-ben-joseph-53743b113/). TensorSpace is developing commercially useful artificial intelligence with an the ultimate goal of aiding the development of artificial general intelligence (AGI).
 
 On GitHub, mostly of my contributions are in drug discovery and pandemic response projects that use artificial intelligence. I have also picked up AI Goverence (and the subfields AI Assurance, AI Alignment/Safety, AI Fairness, MLOps and DevSecOps) as a secondary interest, but I am still very much in the learning phase of that journey.
 
