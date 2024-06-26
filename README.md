@@ -13,3 +13,14 @@ He curates the personal blog [🪬 Memories of Zion](https://www.memoriesofzion.
 jbenjoseph/jbenjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--
+Old bio:
+
+JJ Ben-Joseph (יונתן יהודה בן יוסף) is the founder and CEO of TensorSpace, a stealth-mode AI/ML startup. He's a computer scientist who saw the writing on the wall and pivoted into pandemic prevention well before COVID-19, becoming a venture capitalist focused on biosecurity. He's also one of the few people who thinks AI is profoundly underhyped (although that might have changed in 2022). 
+
+Before starting his own company, JJ worked at the strategic venture capital firm In-Q-Tel, where he helped biosecurity and AI startups succeed with US government customers and worked on drug discovery and pandemic response technologies. He's a former fellow at the American Jewish Committee, the Johns Hopkins Center for Health Security, and the Foresight Institute. He's also a PhD candidate doing research on artificial intelligence and a dad to two amazing daughters.
+
+If you've made it this far, congratulations! Please feel free to click the "Connect" button at the top of the page to get in touch with JJ.
+
+-->
