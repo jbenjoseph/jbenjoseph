@@ -1,6 +1,6 @@
 👋
 
-JJ Ben-Joseph is the cofounder and Chief AI Officer of ProPhet, a biotech AI/ML startup currently operating in stealth mode.
+JJ Ben-Joseph is the Founder and Chief Executive Officer of TensorSpace, an AI/ML startup currently operating in stealth mode.
 
 Previously, JJ was a key player at [In-Q-Tel](https://www.iqt.org), a strategic venture capital firm, where he supported biosecurity and AI startups in securing and thriving with US government clientele. His expertise extends to technical contributions in drug discovery and pandemic response technologies leveraging AI. Additionally, JJ has held prestigious fellowships at the American Jewish Committee, the Johns Hopkins Center for Health Security, and the Foresight Institute.
 
