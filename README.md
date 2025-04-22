@@ -1,6 +1,6 @@
 👋
 
-JJ Ben-Joseph is the Founder and Chief Executive Officer of TensorSpace, an AI consulting shop. He also developed [AgentCures](https://www.agentcures.com), an AI agent designed with the admittedly ambitious objective of solving all human disease.
+JJ Ben-Joseph is the Founder and Chief Executive Officer of TensorSpace, an AI consulting shop. He also developed [💊 AgentCures](https://www.agentcures.com), an AI agent designed with the admittedly ambitious objective of solving all human disease.
 
 On GitHub, JJ mostly contributes to open-source projects focused on drug discovery and pandemic response using AI. He is also engaged in AI governance, including the subfields of Alignment/Safety, Fairness, MLOps, and DevSecOps.
 
