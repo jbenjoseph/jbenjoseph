@@ -2,7 +2,7 @@
 
 JJ Ben-Joseph is the Founder and Chief Executive Officer of TensorSpace, an AI consulting shop. He also developed [💊 AgentCures](https://www.agentcures.com), an AI agent designed with the admittedly ambitious objective of solving all human disease.
 
-On GitHub, JJ mostly contributes to open-source projects focused on drug discovery and pandemic response using AI. He is also engaged in AI governance, including the subfields of Alignment/Safety, Fairness, MLOps, and DevSecOps.
+On GitHub, JJ mostly contributes to open-source projects focused on drug discovery and pandemic response. He is also engaged in AI governance, including the subfields of Alignment/Safety, Fairness, MLOps, and DevSecOps.
 
 He curates the personal blog [🪬 Memories of Zion](https://www.memoriesofzion.com/), where he explores the intersection of artificial intelligence, Jewish and Israeli history, often intertwining the two themes in his posts. He also contributes opinion articles to [Times of Israel](https://blogs.timesofisrael.com/author/jj-ben-joseph/).
 
